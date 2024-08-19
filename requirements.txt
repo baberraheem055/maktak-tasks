@@ -16,4 +16,4 @@ requests
 beautifulsoup4
 selenium
 amazoncaptcha
-faiss-gpu-cu12
+faiss-cpu
