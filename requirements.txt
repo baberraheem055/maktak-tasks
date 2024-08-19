@@ -1,3 +1,6 @@
+pip --upgrade
+setuptools --upgrade
+Pillow==9.1.1
 langchain-text-splitters
 langchain
 pypdf
@@ -16,4 +19,4 @@ amazoncaptcha
 selenium
 amazoncaptcha
 scrapy
-Pillow==9.1.1
+
