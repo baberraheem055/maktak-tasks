@@ -17,4 +17,5 @@ beautifulsoup4
 selenium
 amazoncaptcha
 scrapy
+faiss-gpu
 
