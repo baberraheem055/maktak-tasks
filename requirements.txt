@@ -1,6 +1,6 @@
 pip 
 setuptools 
-Pillow==9.1.1
+Pillow
 langchain-text-splitters
 langchain
 pypdf
@@ -14,8 +14,6 @@ langchain_core
 streamlit
 requests
 beautifulsoup4
-selenium
-amazoncaptcha
 selenium
 amazoncaptcha
 scrapy
