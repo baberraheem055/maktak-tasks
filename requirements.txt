@@ -16,3 +16,4 @@ amazoncaptcha
 selenium
 amazoncaptcha
 scrapy
+Pillow==9.1.1
